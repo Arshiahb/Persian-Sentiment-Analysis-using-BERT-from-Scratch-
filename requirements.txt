@@ -1,0 +1,15 @@
+# Core Deep Learning
+torch>=2.0.0
+transformers>=4.30.0
+
+# Data Manipulation & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Evaluation & Visualization
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
